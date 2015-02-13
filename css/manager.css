@@ -1,0 +1,22 @@
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px; line-height:20px;}
+body{text-align:center; background:url(../images/bg_image.bmp)}
+.wrapper{ width:990px; margin:0 auto; text-align:left; background:#FFFFFF;}
+.header{ width:960px; height:200px; border:1px solid #0066FF; margin:5px auto;}
+.userinfo{ width:960px; height:38px; border:1px solid #0066FF; margin:0 auto 5px auto; background:url(../images/bg_info.bmp)}
+.main{ width:960px; height:500px;margin:0 auto 5px auto;}
+.footer{ width:960px; height:80px; border:1px solid #0099FF; margin:0 auto 5px auto;}
+.leftbox{ border:1px solid #0066FF; width:180px; height:500px;}
+.rightbox{ border:1px solid #0066FF; width:774px; margin:0 0 0px 5px; height:500px;}
+h2{ border-bottom:1px solid #0099FF; font-size:20px; background:#FFFFCC; line-height:24px;}
+.h4{ border-bottom:1px solid #0066FF; background:url(../images/bg_info.bmp); font-size:15px;}
+ul li{border-bottom:1px dashed #0066FF; list-style-image:url(../images/amend.ico); line-height:20px;}
+.h4style{ border-bottom:1px solid #0066FF; border-top:1px solid #0066FF; background:url(../images/bg_info.bmp); font-size:15px;}
+.uli{ list-style-image:url(../images/amendinfo.png);}
+.position{ margin:15px 15px 10px 15px; font-size:16px; border-bottom:1px dotted #0033FF;}
+a:link{color:#FF9900;}
+a:active{color:#FF9900;}
+a:visited{color:#FF9900;}
+a:hover{color:#0099FF;}
+a{ text-decoration:none;}
+.include{margin:15px 15px 10px 15px; text-align:center;}

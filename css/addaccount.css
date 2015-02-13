@@ -1,0 +1,7 @@
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px;}
+body{ text-align:center; background:#FFFFCC;}
+.input1{border:1px solid #CCCCCC; width:150px;}
+.btn1{border:none; width:48px; height:20px; background:url(../images/append_15.jpg);}
+.btn2{border:none; width:48px; height:20px; background:url(../images/cancel.jpg);}
+.main1{ margin:20px auto 5px auto;}

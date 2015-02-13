@@ -1,0 +1,8 @@
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px; line-height:30px;}
+body{text-align:center;}
+.infoshow{ width:600px; border:1px solid #CCCCCC; margin:10px auto auto auto; }
+.ht{ font-size:18px; border-bottom:1px solid #CCCCCC;}
+.printbutton{ margin:5px; border:1px solid #CCCCCC; width:600px; height:30px;}
+.content{ text-indent:24px; text-align:left; margin:2px;}
+input{ width:100px; height:20px; border:1px solid #00CCFF; background:#FFCCFF; line-height:20px; margin:5px;}

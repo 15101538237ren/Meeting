@@ -1,0 +1,8 @@
+/* CSS Document */
+*{margin:0; padding:0; line-height:18px;}
+.input2{ width:170px; border:1px solid #ccc; height:18px;}
+.sp1{ color:#FF0000; text-align:left; margin:0 0 0 10px;}
+.add_mbtn1{ background:url(../images/append_15.jpg); border:none; width:48px; height:20px;}
+.add_mbtn2{background:url(../images/cancel.jpg); border:none; width:48px; height:20px;}
+.upload{ border:1px solid #ccc; height:20px;}
+.add_m_info{ margin:10px auto 5px auto;}
