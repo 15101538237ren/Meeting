@@ -6,9 +6,9 @@
  * Time: 下午12:38
  */
 error_reporting(E_ERROR);
-$server='renhongleiz.mysql.rds.aliyuncs.com:3306';
-$user='ren';
-$pwd='harry123';
+$server='127.0.0.1';
+$user='root';
+$pwd='******';
 $db='meeting';
 
 include('adodb/adodb.inc.php');
